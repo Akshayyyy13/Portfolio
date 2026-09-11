@@ -28,7 +28,7 @@ export const GallerySection: React.FC = () => {
             <div className="group relative rounded-3xl overflow-hidden border border-[#D7E2EA]/20 bg-[#121620] shadow-2xl flex flex-col hover:border-[#38bdf8]/60 transition-all duration-500">
               <div className="w-full h-[260px] sm:h-[280px] overflow-hidden relative">
                 <img
-                  src="fullstack_dev.jpg"
+                  src="/fullstack_dev.jpg"
                   alt="Full Stack Dev Workspace"
                   className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700"
                 />
@@ -53,7 +53,7 @@ export const GallerySection: React.FC = () => {
             <div className="group relative rounded-3xl overflow-hidden border border-[#D7E2EA]/20 bg-[#121620] shadow-2xl flex flex-col hover:border-[#34d399]/60 transition-all duration-500">
               <div className="w-full h-[260px] sm:h-[280px] overflow-hidden relative">
                 <img
-                  src="iot_hardware.jpg"
+                  src="/iot_hardware.jpg"
                   alt="IoT Hardware Laboratory"
                   className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700"
                 />
@@ -78,7 +78,7 @@ export const GallerySection: React.FC = () => {
             <div className="group relative rounded-3xl overflow-hidden border border-[#D7E2EA]/20 bg-[#121620] shadow-2xl flex flex-col hover:border-[#f43f5e]/60 transition-all duration-500 sm:col-span-2 lg:col-span-1">
               <div className="w-full h-[260px] sm:h-[280px] overflow-hidden relative">
                 <img
-                  src="ai_patent.jpg"
+                  src="/ai_patent.jpg"
                   alt="AI Patent Interface"
                   className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700"
                 />

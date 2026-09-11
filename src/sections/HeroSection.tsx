@@ -51,7 +51,7 @@ export const HeroSection: React.FC = () => {
           >
             <div className="w-[240px] sm:w-[320px] md:w-[380px] h-[320px] sm:h-[420px] md:h-[480px] rounded-[30px] sm:rounded-[40px] border-2 border-[#D7E2EA]/30 overflow-hidden shadow-2xl bg-[#181818] select-none pointer-events-auto">
               <img
-                src="./profile.jpg"
+                src="/profile.jpg"
                 alt="Akshay Krishna K Portrait"
                 className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-500"
               />

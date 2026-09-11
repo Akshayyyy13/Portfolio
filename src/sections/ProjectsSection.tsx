@@ -24,7 +24,7 @@ const PROJECTS: ProjectItem[] = [
       'https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=800&q=80',
     col1Img2:
       'https://images.unsplash.com/photo-1531403009284-440f080d1e12?auto=format&fit=crop&w=800&q=80',
-    col2Img: 'fullstack_dev.jpg',
+    col2Img: '/fullstack_dev.jpg',
     href: 'https://github.com/Akshayyyy13',
   },
   {
@@ -36,7 +36,7 @@ const PROJECTS: ProjectItem[] = [
       'https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80',
     col1Img2:
       'https://images.unsplash.com/photo-1506521781263-d8422e82f27a?auto=format&fit=crop&w=800&q=80',
-    col2Img: 'iot_hardware.jpg',
+    col2Img: '/iot_hardware.jpg',
     href: 'https://github.com/Akshayyyy13',
   },
   {
@@ -48,7 +48,7 @@ const PROJECTS: ProjectItem[] = [
       'https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80',
     col1Img2:
       'https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=800&q=80',
-    col2Img: 'ai_patent.jpg',
+    col2Img: '/ai_patent.jpg',
     href: 'https://akshayyyy13.vercel.app/',
   },
 ];
